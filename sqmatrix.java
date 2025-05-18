@@ -20,7 +20,7 @@ public class sqmatrix {
             for (int j = 0; j < size; j++) {
                 System.out.print(ar[i][j]);
             }
-            System.out.println();
+            System.out.println("");
         }
 
         // checking for symmetry
